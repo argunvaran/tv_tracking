@@ -1,0 +1,100 @@
+WARNING 2024-10-13 21:41:05,521 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:41:05,521 Laptop Initial Status: OFF
+INFO 2024-10-13 21:41:16,309 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:41:16,344 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:41:25,028 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:41:25,534 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:41:25,566 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:41:34,510 Ping Fail: 192.168.1.4 Not Connected to Internet.
+ERROR 2024-10-13 21:41:38,513 Ping Error: 192.168.1.9 - Error: Command '['ping', '-n', '1', '192.168.1.9']' returned non-zero exit status 1.
+INFO 2024-10-13 21:41:38,514 Argun Mobile Status Changed: OFF
+INFO 2024-10-13 21:41:38,524 Argun Mobile Offline Duration: 0:00:40.147155
+INFO 2024-10-13 21:41:38,556 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:41:47,528 Ping Fail: 192.168.1.4 Not Connected to Internet.
+ERROR 2024-10-13 21:41:51,518 Ping Error: 192.168.1.9 - Error: Command '['ping', '-n', '1', '192.168.1.9']' returned non-zero exit status 1.
+INFO 2024-10-13 21:41:51,564 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:42:00,520 Ping Fail: 192.168.1.4 Not Connected to Internet.
+WARNING 2024-10-13 21:42:09,524 Ping Fail: 192.168.1.9 Not Connected to Internet.
+INFO 2024-10-13 21:42:09,564 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:42:18,526 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:42:18,684 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:42:18,684 Argun Mobile Status Changed: ON
+INFO 2024-10-13 21:42:18,716 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:42:27,527 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:42:27,840 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:42:27,904 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:42:36,528 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:42:36,741 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:42:36,775 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:42:45,516 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:42:46,088 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:42:46,113 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:42:55,023 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:42:55,231 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:42:55,256 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:43:04,020 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:43:04,343 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:43:04,376 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:43:13,020 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:43:13,731 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:43:13,755 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:43:22,515 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:43:23,151 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:43:23,177 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:43:32,017 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:43:32,799 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:43:32,824 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:43:41,525 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:43:41,843 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:43:41,877 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:43:50,516 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:43:51,452 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:43:51,477 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:44:00,019 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:44:00,694 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:44:00,742 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:44:09,526 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:44:11,193 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:44:11,229 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:44:20,023 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:44:20,527 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:44:20,552 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:44:29,525 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:44:30,136 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:44:30,162 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:44:39,022 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:44:39,863 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:44:39,890 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:44:48,524 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:44:49,007 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:44:49,035 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:44:58,013 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:44:58,582 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:44:58,609 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:45:07,522 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:45:08,053 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:45:08,078 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:45:17,023 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:45:17,655 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:45:17,683 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:45:26,516 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:45:26,772 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:45:26,807 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:45:35,515 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:45:36,256 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:45:36,302 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:45:45,023 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:45:45,850 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:45:45,909 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:45:54,515 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:45:55,006 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:45:55,051 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:46:04,026 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:46:04,478 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:46:04,504 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:46:13,510 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:46:13,855 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:46:13,882 Ping Success: 192.168.1.2 Connected to Internet.
+WARNING 2024-10-13 21:46:22,523 Ping Fail: 192.168.1.4 Not Connected to Internet.
+INFO 2024-10-13 21:46:22,806 Ping Success: 192.168.1.9 Connected to Internet.
+INFO 2024-10-13 21:46:22,832 Ping Success: 192.168.1.2 Connected to Internet.

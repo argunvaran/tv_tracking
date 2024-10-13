@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+
+{% block title %}TV Raporu{% endblock %}
+
+{% block content %}
+<h1>TV Raporu</h1>
+
+
+<form method="GET" action="">
+    <label for="tv_id">TV Seç:</label>
+    <select name="tv_id" id="tv_id" class="form-control" onchange="this.form.submit()">
+        <option value="">Tüm TV'ler</option>
+        {% for tv in tvs %}
+            <option value="{{ tv.id }}" {% if selected_tv and selected_tv.id == tv.id %}selected{% endif %}>{{ tv.name }}</option>
+        {% endfor %}
+    </select>
+</form>
+
+{% if selected_tv %}
+    <h2>{{ selected_tv.name }} için Rapor</h2>
+    
+    <p>Toplam açık kalma süresi: 
+        {% if total_duration %}
+            {{ total_duration.total_seconds|floatformat:0 }} saniye
+        {% else %}
+            Veri yok
+        {% endif %}
+    </p>
+
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Durum</th>
+                <th>Zaman</th>
+                <th>Açık Kalma Süresi (saniye)</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for log in logs %}
+            <tr>
+                <td>{{ log.status }}</td>
+                <td>{{ log.timestamp }}</td>
+                <td>
+                    {% if log.duration %}
+                        {{ log.duration.total_seconds|floatformat:0 }}
+                    {% else %}
+                        N/A
+                    {% endif %}
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% else %}
+    <p>Lütfen bir TV seçin.</p>
+{% endif %}
+{% endblock %}
